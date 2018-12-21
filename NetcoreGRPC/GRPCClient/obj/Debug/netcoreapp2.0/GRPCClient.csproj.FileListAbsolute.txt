@@ -1,0 +1,13 @@
+D:\May\webapi\netcore\NetcoreGRPC\GRPCClient\bin\Debug\netcoreapp2.0\GRPCClient.deps.json
+D:\May\webapi\netcore\NetcoreGRPC\GRPCClient\bin\Debug\netcoreapp2.0\GRPCClient.runtimeconfig.json
+D:\May\webapi\netcore\NetcoreGRPC\GRPCClient\bin\Debug\netcoreapp2.0\GRPCClient.runtimeconfig.dev.json
+D:\May\webapi\netcore\NetcoreGRPC\GRPCClient\bin\Debug\netcoreapp2.0\GRPCClient.dll
+D:\May\webapi\netcore\NetcoreGRPC\GRPCClient\bin\Debug\netcoreapp2.0\GRPCClient.pdb
+D:\May\webapi\netcore\NetcoreGRPC\GRPCClient\obj\Debug\netcoreapp2.0\GRPCClient.csproj.CoreCompileInputs.cache
+D:\May\webapi\netcore\NetcoreGRPC\GRPCClient\obj\Debug\netcoreapp2.0\GRPCClient.AssemblyInfoInputs.cache
+D:\May\webapi\netcore\NetcoreGRPC\GRPCClient\obj\Debug\netcoreapp2.0\GRPCClient.AssemblyInfo.cs
+D:\May\webapi\netcore\NetcoreGRPC\GRPCClient\obj\Debug\netcoreapp2.0\GRPCClient.dll
+D:\May\webapi\netcore\NetcoreGRPC\GRPCClient\obj\Debug\netcoreapp2.0\GRPCClient.pdb
+D:\May\webapi\netcore\NetcoreGRPC\GRPCClient\obj\Debug\netcoreapp2.0\GRPCClient.csprojResolveAssemblyReference.cache
+D:\May\webapi\netcore\NetcoreGRPC\GRPCClient\bin\Debug\netcoreapp2.0\GrpcService.Protocol.dll
+D:\May\webapi\netcore\NetcoreGRPC\GRPCClient\bin\Debug\netcoreapp2.0\GrpcService.Protocol.pdb

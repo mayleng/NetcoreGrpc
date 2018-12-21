@@ -1,0 +1,15 @@
+D:\May\webapi\netcore\NetcoreGRPC\ConsoleServer\bin\Debug\netcoreapp2.0\ConsoleServer.deps.json
+D:\May\webapi\netcore\NetcoreGRPC\ConsoleServer\bin\Debug\netcoreapp2.0\ConsoleServer.runtimeconfig.json
+D:\May\webapi\netcore\NetcoreGRPC\ConsoleServer\bin\Debug\netcoreapp2.0\ConsoleServer.runtimeconfig.dev.json
+D:\May\webapi\netcore\NetcoreGRPC\ConsoleServer\bin\Debug\netcoreapp2.0\ConsoleServer.dll
+D:\May\webapi\netcore\NetcoreGRPC\ConsoleServer\bin\Debug\netcoreapp2.0\ConsoleServer.pdb
+D:\May\webapi\netcore\NetcoreGRPC\ConsoleServer\bin\Debug\netcoreapp2.0\GrpcService.Impl.dll
+D:\May\webapi\netcore\NetcoreGRPC\ConsoleServer\bin\Debug\netcoreapp2.0\GrpcService.Protocol.dll
+D:\May\webapi\netcore\NetcoreGRPC\ConsoleServer\bin\Debug\netcoreapp2.0\GrpcService.Impl.pdb
+D:\May\webapi\netcore\NetcoreGRPC\ConsoleServer\bin\Debug\netcoreapp2.0\GrpcService.Protocol.pdb
+D:\May\webapi\netcore\NetcoreGRPC\ConsoleServer\obj\Debug\netcoreapp2.0\ConsoleServer.csprojResolveAssemblyReference.cache
+D:\May\webapi\netcore\NetcoreGRPC\ConsoleServer\obj\Debug\netcoreapp2.0\ConsoleServer.csproj.CoreCompileInputs.cache
+D:\May\webapi\netcore\NetcoreGRPC\ConsoleServer\obj\Debug\netcoreapp2.0\ConsoleServer.AssemblyInfoInputs.cache
+D:\May\webapi\netcore\NetcoreGRPC\ConsoleServer\obj\Debug\netcoreapp2.0\ConsoleServer.AssemblyInfo.cs
+D:\May\webapi\netcore\NetcoreGRPC\ConsoleServer\obj\Debug\netcoreapp2.0\ConsoleServer.dll
+D:\May\webapi\netcore\NetcoreGRPC\ConsoleServer\obj\Debug\netcoreapp2.0\ConsoleServer.pdb

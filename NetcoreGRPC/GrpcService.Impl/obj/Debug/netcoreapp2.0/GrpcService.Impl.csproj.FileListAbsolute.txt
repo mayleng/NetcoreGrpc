@@ -1,0 +1,11 @@
+D:\May\webapi\netcore\NetcoreGRPC\GrpcService.Impl\bin\Debug\netcoreapp2.0\GrpcService.Impl.deps.json
+D:\May\webapi\netcore\NetcoreGRPC\GrpcService.Impl\bin\Debug\netcoreapp2.0\GrpcService.Impl.dll
+D:\May\webapi\netcore\NetcoreGRPC\GrpcService.Impl\obj\Debug\netcoreapp2.0\GrpcService.Impl.csprojResolveAssemblyReference.cache
+D:\May\webapi\netcore\NetcoreGRPC\GrpcService.Impl\obj\Debug\netcoreapp2.0\GrpcService.Impl.csproj.CoreCompileInputs.cache
+D:\May\webapi\netcore\NetcoreGRPC\GrpcService.Impl\obj\Debug\netcoreapp2.0\GrpcService.Impl.AssemblyInfoInputs.cache
+D:\May\webapi\netcore\NetcoreGRPC\GrpcService.Impl\obj\Debug\netcoreapp2.0\GrpcService.Impl.AssemblyInfo.cs
+D:\May\webapi\netcore\NetcoreGRPC\GrpcService.Impl\bin\Debug\netcoreapp2.0\GrpcService.Impl.pdb
+D:\May\webapi\netcore\NetcoreGRPC\GrpcService.Impl\bin\Debug\netcoreapp2.0\GrpcService.Protocol.dll
+D:\May\webapi\netcore\NetcoreGRPC\GrpcService.Impl\bin\Debug\netcoreapp2.0\GrpcService.Protocol.pdb
+D:\May\webapi\netcore\NetcoreGRPC\GrpcService.Impl\obj\Debug\netcoreapp2.0\GrpcService.Impl.dll
+D:\May\webapi\netcore\NetcoreGRPC\GrpcService.Impl\obj\Debug\netcoreapp2.0\GrpcService.Impl.pdb
